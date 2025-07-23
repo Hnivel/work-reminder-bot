@@ -1,15 +1,6 @@
 # Discord Work Reminder Bot
 
 A Discord bot that helps you manage work reminders with automatic notifications.
-## Features
-
-🎯 **Work Reminders**: Create reminders for any work-related task or event  
-📅 **1-Day Warning**: Get reminded 24 hours before your event  
-⏰ **30-Minute Warning**: Get reminded 30 minutes before your event  
-📝 **Flexible Time Input**: Use natural language for dates and times  
-📋 **View Active Reminders**: List all your upcoming reminders  
-💾 **Persistent Storage**: Reminders survive bot restarts  
-🧹 **Auto Cleanup**: Old reminders are automatically deleted  
 
 ## Commands
 
@@ -34,9 +25,6 @@ The bot will then prompt you for the time. You can use formats like:
 
 Display all your active reminders in a nice formatted list.
 
-### `!hello`
-
-Simple greeting command to test if the bot is working.
 
 ## Installation & Setup
 
